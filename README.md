@@ -1,4 +1,3 @@
-# estudo_dart_flutter
 
 # 🧠 Teste Técnico - Desenvolvedor Mobile Flutter Júnior (Foco em Lógica e Dart)
 
