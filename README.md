@@ -33,22 +33,8 @@ Depois posso corrigir as suas respostas!
 6. Classe Usuario
    Crie uma classe Usuario com os atributos nome, email e senha. Depois,
 
-dart
-Copiar
-Editar
-class Usuario {
-
-}
-
 7. Simulação de cadastro
    Crie uma função que receba um nome, email e senha. Se o nome tiver menos de 3 letras ou a senha menos de 6, retorne "Cadastro inválido", senão retorne "Cadastro realizado com sucesso".
-
-dart
-Copiar
-Editar
-String cadastrar(String nome, String email, String senha) {
-
-}
 
 ## ✅ Parte 3: Bônus Flutter (lógica com widget)
 
