@@ -37,7 +37,7 @@ dart
 Copiar
 Editar
 class Usuario {
-// Atributos e construtor
+
 }
 
 7. Simulação de cadastro
@@ -47,7 +47,7 @@ dart
 Copiar
 Editar
 String cadastrar(String nome, String email, String senha) {
-// Sua implementação aqui
+
 }
 
 ## ✅ Parte 3: Bônus Flutter (lógica com widget)
