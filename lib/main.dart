@@ -10,6 +10,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: HomePage(title: 'Par ou Impar'));
+    return MaterialApp(home: HomePage(title: 'Atividades de logica'));
   }
 }
