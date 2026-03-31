@@ -1,3 +1,4 @@
+import 'package:estudo_dart_flutter/segundo_estudo_logica/par_ou_impar.dart';
 import 'package:estudo_dart_flutter/segundo_estudo_logica/soma_de_numeros.dart';
 import 'package:flutter/material.dart';
 
@@ -33,6 +34,24 @@ class _HomePageState extends State<HomePage> {
                       ),
                       child: Text(
                         "Soma de numeros",
+                        style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 15,
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.start,
+                  children: [
+                    TextButton(
+                      onPressed: () => Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) => ParOuImpar()),
+                      ),
+                      child: Text(
+                        "Par ou Impar",
                         style: TextStyle(
                           fontWeight: FontWeight.bold,
                           fontSize: 15,
